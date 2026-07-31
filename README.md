@@ -12,7 +12,7 @@ This program was developed and tested with Python 3.12.10.
 On Windows, Poppler must also be installed. After installation, open Edit the system environment variables in the Windows settings and add the path to the bin folder of the Poppler installation directory to the system Path variable.
 
 Installation
-1. Create a virtual environment
+###1. Create a virtual environment
 
 python -m venv .venv
 
