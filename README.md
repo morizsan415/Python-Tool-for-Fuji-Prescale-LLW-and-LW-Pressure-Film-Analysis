@@ -13,7 +13,9 @@ On Windows, Poppler must also be installed. After installation, open Edit the sy
 
 Installation
 1. Create a virtual environment
+
 python -m venv .venv
+
 2. Activate the virtual environment
 
 Windows:
@@ -33,7 +35,9 @@ python hersteller_kalibrierung.py
 This script generates the calibration coefficients based on the manufacturer’s data. The diagrams displayed during execution are provided for overview purposes only and can be closed afterward.
 
 5. Start the evaluation tool
+
 python fuji_tool.py
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dieses Python-basierte Tool analysiert Druckverteilungen anhand gescannter Bilder von druckempfindlichen FUJIFILM-Prescale-Folien der Typen LLW und LW.
 
@@ -53,7 +57,7 @@ Installation：
 
 python -m venv .venv
 
-3. Virtuelle Umgebung aktivieren
+2. Virtuelle Umgebung aktivieren
 
 Windows:
 
